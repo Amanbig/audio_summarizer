@@ -4,7 +4,7 @@ This project is a Audio Summarizer built with **Streamlit**. It allows users to 
 
 ## Features
 
-### Backend (FastAPI)
+### Features
 - **Transcription**: Extract audio from video files and transcribe it using the Groq Whisper model.
 - **Summarization**: Summarize the transcription with an AI model.
 - **Question Answering**: Ask contextual questions based on the transcription or summary.
